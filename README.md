@@ -1,4 +1,4 @@
-# Prueba
+# Fetch API Users
 
 <https://randomuser.me/api/?results=50>
 
@@ -11,6 +11,6 @@ Here are the steps to follow:
 - [✅] Enable the ability to delete a row.
 - [✅] Implement the futures that allows the user restore the initial state and that all deleted rows will be reovered.
 - [✅] Handle any potencial error that may occur.
-- [X] Implement the future that allows the user to filter the data by country.
-- [X] Avoid sorting users again the data when the user is changing filter by country.
-- [X] Sort the clicking on the column header.
+- [✅] Implement the future that allows the user to filter the data by country.
+- [✅] Avoid sorting users again the data when the user is changing filter by country.
+- [✅] Sort the clicking on the column header.
